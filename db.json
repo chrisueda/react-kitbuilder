@@ -1,0 +1,130 @@
+{
+  "kits": [
+    {
+      "id": 1,
+      "name": "Best of Benefit",
+      "price": 79,
+      "description": "Your go-to glam. Choose 3 iconic products and nab your choice of a freebie...makeup bag included! Up to $105 value!",
+      "categories": [
+        {
+          "title": "Complexion Perfection",
+          "products": [
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "title": "Sweet Lips and Cheeks",
+          "products": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "title": "Pretty Eyes",
+          "products": [
+            11,
+            13,
+            15,
+            17
+          ]
+        },
+        {
+          "title": "Free Gift",
+          "products": [
+            10,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Arch you Fabulous",
+      "price": 59,
+      "description": "Your new brow BFF. Pick 3 brow products and we'll hook you up with a freebie &amp; a makeup bag. Up to $96 value!",
+      "categories": [
+        {
+          "title": "Go to brow product",
+          "products": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "title": "Shape and Fill",
+          "products": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "title": "Style",
+          "products": [
+            11,
+            13,
+            15,
+            17
+          ]
+        },
+        {
+          "title": "Free Gift",
+          "products": [
+            10,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gimme Minis Kit",
+      "price": 39,
+      "description": "Gimme minis! Pick 3 mini products and get your choice of a freebie... makeup bag included! Up to $54 value!",
+      "categories": [
+        {
+          "title": "Bangin' Brows",
+          "products": [
+            11,
+            13,
+            15,
+            17
+          ]
+        },
+        {
+          "title": "Pretty Eyes",
+          "products": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "title": "Sweet Cheeks",
+          "products": [
+            11,
+            13,
+            15,
+            17
+          ]
+        },
+        {
+          "title": "Free Gift",
+          "products": [
+            10,
+            12
+          ]
+        }
+      ]
+    }
+  ]
+}
